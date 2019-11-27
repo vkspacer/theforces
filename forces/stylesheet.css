@@ -1,0 +1,65 @@
+body {
+background-color:black;
+color:green;
+fomt-family:Verdana,Arial,Geneva,Arial Black;
+font-weight:Bolder;
+margin:0;
+}
+#divmain{
+color:red;
+}
+.blue{text-align:center; color:blue;border-bottom:1px solid black;
+}
+.highlight{
+background-color:white;
+}
+.imagec{
+display:block;
+margin-left:auto;
+margin-right:auto;
+padding:3px;
+background-color:silver;
+border-color:red;
+}
+.red {
+color:red;
+font-size:25px;
+font-family:Helvetica;
+text-decoration:underline;
+padding:20px 20px 20px 20px;
+border-color:white;
+border-width:thick;
+border-style:ridge;
+margin:0;
+}
+#para1homepage{
+color:orange;
+font-size:25px;
+font-family:Helvetica;
+padding:20px 20px 20px 20px;
+border:white 2px solid;
+border-bottom-left-radius:0px;
+border-bottom-right-radius:0px;
+border-top-left-radius:10px;
+border-top-right-radiud:10px;
+}
+p.orange1{
+color:orange;
+font-size:25px;
+font-family:Helvetica;
+padding:20px 20px 20px 20px;
+border:white 2px solid;
+border-radius:10px;
+border-style:dotted;
+border-bottom-color:white;
+background-image:vk.jpg;
+}
+p.hard{
+color:green;
+font-size:25px;
+font-style:italic;
+}
+#divsub
+{
+color:blue;
+}
